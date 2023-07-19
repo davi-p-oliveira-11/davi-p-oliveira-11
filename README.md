@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Davi</h1>
+<h1 align="center">Hi 👋, I'm Davi P. Oliveira</h1>
 <h3 align="center">A self taught web developer from Brazil</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davi-p-oliveira-11" alt="davi-p-oliveira-11" /></a> </p>
 
 - 🔭 I’m currently working on **front-end-mentor-challenges**
 
@@ -22,6 +20,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=davi-p-oliveira-11&show_icons=true&locale=en&layout=compact" alt="davi-p-oliveira-11" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=davi-p-oliveira-11&show_icons=true&locale=en" alt="davi-p-oliveira-11" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davi-p-oliveira-11&" alt="davi-p-oliveira-11" /></p>
 
