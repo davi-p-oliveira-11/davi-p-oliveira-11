@@ -19,5 +19,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davi-p-oliveira-11)](https://github.com/davi-p-oliveira-11/github-readme-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=davi-p-oliveira-11&show_icons=true&locale=en" alt="davi-p-oliveira-11" /></p>
+[![Davi Github Stats](https://github-readme-stats.vercel.app/api?username=davi-p-oliveira-11)](https://github.com/davi-p-oliveira-11/github-readme-stats)
 
