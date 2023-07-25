@@ -17,7 +17,7 @@
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> </p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davi-p-oliveira-11&langs_count=7)](https://github.com/davi-p-oliveira-11/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davi-p-oliveira-11&langs_count=8)](https://github.com/davi-p-oliveira-11/github-readme-stats)
 
 [![Davi Github Stats](https://github-readme-stats.vercel.app/api?username=davi-p-oliveira-11)](https://github.com/davi-p-oliveira-11/github-readme-stats)
 
