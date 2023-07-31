@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **front-end-mentor-challenges**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **ReactJS**
 
 
 <h3 align="left">Languages and Tools:</h3>
