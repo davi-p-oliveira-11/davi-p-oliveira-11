@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Davi P. Oliveira</h1>
 <h3 align="center">A self taught web developer from Brazil</h3>
 
-- 🔭 I’m currently working on **front-end-mentor-challenges**
+-  I’m currently working on **front-end-mentor-challenges**
 
-- 🌱 I’m currently learning **ReactJS**
+-  I’m currently learning **ReactJS**
+
+-  My main goal is to become  a full-stack webdeveloper
 
 
 <h3 align="left">Languages and Tools:</h3>
