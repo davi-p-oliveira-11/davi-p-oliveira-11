@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Davi P. Oliveira</h1>
-<h3 align="center">A self taught web developer from Brazil</h3>
+<h3 align="center">A self taught web developer</h3>
 
 -  I’m currently working on **front-end-mentor-challenges**
 
