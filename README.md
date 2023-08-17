@@ -26,7 +26,7 @@
 </p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davi-p-oliveira-11&langs_count=11&count-private=true)](https://github.com/davi-p-oliveira-11/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davi-p-oliveira-11&langs_count=11count-private=true)](https://github.com/davi-p-oliveira-11/github-readme-stats)
 
 [![Davi Github Stats](https://github-readme-stats.vercel.app/api?username=davi-p-oliveira-11)](https://github.com/davi-p-oliveira-11/github-readme-stats)
 
