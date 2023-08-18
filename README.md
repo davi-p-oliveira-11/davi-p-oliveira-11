@@ -5,7 +5,7 @@
 
 -  I’m currently learning **ReactJS**
 
--  My main goal is to become  a full-stack web developer
+-  My main goal is to become a full-stack web developer
 
 
 <h3 align="left">Languages and Tools:</h3>
