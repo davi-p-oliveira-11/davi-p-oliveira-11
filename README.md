@@ -1,8 +1,12 @@
+
+
 ### Hello I'm Davi P. Oliveira 👋🏻
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/davipoliveira11.dev/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-p-oliveira-a44705218/)<br>
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=davi-p-oliveira-11&show_icons=true&theme=dracula)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-p-oliveira-a44705218/)<br><br>
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=davi-p-oliveira-11&show_icons=true&theme=dracula) 
+
+
 
 ### Technologies that I use
 
@@ -16,7 +20,7 @@
   <img align="center" alt="html5" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img align="center" alt="html5" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img align="center" alt="html5" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-</div>
+</div><br><br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davi-p-oliveira-11&layout=pie)](https://github.com/davi-p-oliveira-11/github-readme-stats)
 
