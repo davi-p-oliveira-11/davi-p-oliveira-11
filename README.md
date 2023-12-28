@@ -18,3 +18,5 @@
   <img align="center" alt="html5" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davi-p-oliveira-11&layout=pie)](https://github.com/davi-p-oliveira-11/github-readme-stats)
+
