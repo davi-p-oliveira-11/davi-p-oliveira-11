@@ -11,7 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-p-oliveira-a44705218/)<br><br>
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=davi-p-oliveira-11&show_icons=true&theme=dracula) 
 
-<h3 align="center">Primary Tech Stack:</h3>
+<h3 align="center"> Tech Stack: </h3>
 
 <div align="center"> 
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> 
@@ -30,6 +30,7 @@
   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" /> 
 </div>
 
+<!--
 <h3 align="center">Secondary Tech Stack: (Currently Learning) </h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
@@ -41,6 +42,7 @@
   <img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
 </div>
+-->
 
 ### 🖥️ Languages Known  
 <div>
