@@ -30,6 +30,7 @@
   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" /> 
 </div>
 
+
 <!--
 <h3 align="center">Secondary Tech Stack: (Currently Learning) </h3>
 <div align="center">
@@ -43,6 +44,9 @@
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
 </div>
 -->
+
+
+<h3 align="center">Secondary Tech Stack: (Currently Learning) </h3>
 
 ### 🖥️ Languages Known  
 <div>
