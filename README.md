@@ -4,7 +4,7 @@
 <h1 align="center"> 👋 Hey there! I'm Davi P. Oliveira </h1>
 <p align="center">
   <b>Full-Stack Developer | Web3 Enthusiast</b><br>
-  <b>React | Angular | Node.js (Express/Fastify) | ASP.NET Core</b>
+  <b>React | Angular | Node.js (Express/Fastify) | Java (Spring Boot)</b>
 </p>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/davipoliveira11.dev/)
@@ -56,6 +56,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" />
 </div>
 
