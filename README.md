@@ -46,8 +46,6 @@
 -->
 
 
-<h3 align="center">Secondary Tech Stack: (Currently Learning) </h3>
-
 ### 🖥️ Languages Known  
 <div>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
