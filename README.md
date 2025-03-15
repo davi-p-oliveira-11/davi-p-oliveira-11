@@ -4,7 +4,7 @@
 <h1 align="center"> 👋 Hey there! I'm Davi P. Oliveira </h1>
 <p align="center">
   <b>Full-Stack Developer | Web3 Enthusiast</b><br>
-  <b>React | Angular | Node.js (Express/Fastify) | Java (Spring Boot)</b>
+  <b>React | Angular | Node.js (Express/Fastify/Nest) | Java (Spring Boot)</b>
 </p>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/davipoliveira11.dev/)
