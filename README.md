@@ -29,7 +29,7 @@
 </div>
 
 
-<!--
+
 <h3 align="center">Secondary Tech Stack: (Currently Learning) </h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
@@ -41,7 +41,7 @@
   <img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
 </div>
--->
+
 
 
 ### 🖥️ Languages Known  
