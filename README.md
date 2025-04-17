@@ -2,7 +2,7 @@
 
 
 <h1 align="center"> 👋 Hey there! I'm Davi P. Oliveira </h1>
-<p align="center"><i>aka <a href="https://github.com/Davidwalstein11" target="_blank">David Walstein</a></i></p>
+<p align="center"><i>aka <a href="https://github.com/DavidWaldstein11" target="_blank">David Waldstein</a></i></p>
 <p align="center">
   <b>Full-Stack Developer | Web3 Enthusiast</b><br>
   <b>React (Next.js) | Angular | Node.js (Express/Fastify/Nest) | Java (Spring Boot)</b>
