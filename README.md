@@ -4,7 +4,7 @@
 <h1 align="center"> 👋 Hey there! I'm Davi P. Oliveira </h1>
 <p align="center"><i>aka <a href="https://github.com/DavidWaldstein11" target="_blank">David Waldstein</a></i></p>
 <p align="center">
-  <b> Full-Stack Developer | React (Next.js) | Python (Flask/Django/FastAPI) </b></p>br>
+  <b> Full-Stack Developer | React (Next.js) | Python (Flask/Django/FastAPI) </b></br>
   <b> Learning Angular + Spring Boot | Web3 & Blockchain Enthusiast</b>
 </p>
 
