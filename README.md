@@ -4,7 +4,7 @@
 <h1 align="center"> 👋 Hey there! I'm Davi P. Oliveira </h1>
 <p align="center"><i>aka <a href="https://github.com/DavidWaldstein11" target="_blank">David Waldstein</a></i></p>
 <p align="center">
-  <b> Full-Stack Developer | React (Next.js) | Python (Flask/Django/FastAPI) </b></br>
+  <b> Full-Stack Developer | React (Next.js) | Python (Flask/Django/FastAPI) | Node.js (Express/Fastify) </b></br>
   <b> Learning Angular + Spring Boot | Web3 & Blockchain Enthusiast</b>
 </p>
 
@@ -28,6 +28,7 @@
   <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" />
   <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
 </div>
 
@@ -40,7 +41,9 @@
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <!--
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
+  -->
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div>
 
