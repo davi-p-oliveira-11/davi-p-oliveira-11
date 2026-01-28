@@ -59,6 +59,13 @@ Each project includes:
   <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui" />
 </p>
 
+### 🎨 Motion & 3D
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock" />
+  <img src="https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js" />
+</p>
+
 ### 🧠 Backend
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js" />
