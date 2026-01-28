@@ -55,6 +55,8 @@ Each project includes:
   <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular" />
   <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss" />
+  <img src="https://img.shields.io/badge/shadcn%2Fui-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui" />
 </p>
 
 ### 🧠 Backend
