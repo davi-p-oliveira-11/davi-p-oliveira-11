@@ -49,30 +49,37 @@ Each project includes:
 
 ## 🛠 Core Stack
 
-### Frontend
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" />
-<img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs" />
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular" />
-<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss" />
+### ⚛️ Frontend
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss" />
+</p>
 
-### Backend
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js" />
-<img src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express" />
-<img src="https://img.shields.io/badge/Fastify-black?style=for-the-badge&logo=fastify" />
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot" />
+### 🧠 Backend
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express" />
+  <img src="https://img.shields.io/badge/Fastify-black?style=for-the-badge&logo=fastify" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot" />
+</p>
 
-### Data & Cloud
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker" />
+### 🗄 Data & Cloud
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws" />
+</p>
 
-### Engineering Standards
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript" />
-<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens" />
-<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger" />
-<img src="https://img.shields.io/badge/Clean_Architecture-111111?style=for-the-badge" />
-
+### 🛡 Engineering
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript" />
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger" />
+  <img src="https://img.shields.io/badge/Clean_Architecture-111111?style=for-the-badge" />
+</p>
 
 ---
 
