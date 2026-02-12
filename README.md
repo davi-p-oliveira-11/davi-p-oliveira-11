@@ -28,6 +28,7 @@ Currently expanding into **React Native** to deliver complete web + mobile solut
 
 ---
 
+<!--
 ## 🚀 Featured Projects
 
 | Project | Stack | Description |
@@ -35,7 +36,7 @@ Currently expanding into **React Native** to deliver complete web + mobile solut
 | **BiteStorm** | React 19 + Node + MongoDB | Fullstack food ordering platform with authentication and API integration |
 | **Scholaryx (WIP)** | PERN | Academic management system with relational database modeling |
 | **Mobile Extension (WIP)** | React Native | Mobile client consuming BiteStorm API |
-
+-->
 ---
 
 | Project                                                                               | Stack                          | Description                                                                                                                                                                                       |
