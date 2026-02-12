@@ -38,6 +38,13 @@ Currently expanding into **React Native** to deliver complete web + mobile solut
 
 ---
 
+| Project                                                                               | Stack                          | Description                                                                                                                                                                                       |
+| ------------------------------------------------------------------------------------- | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[BiteStorm](https://bitestorm.onrender.com)** <br/> [Repo](https://github.com/davi-p-oliveira-11/bitestorm) | MERN (React 19, Node, MongoDB) | Fullstack food ordering platform with JWT authentication, role-based access (admin/user), restaurant & menu CRUD, cart & order management, and RESTful API architecture designed for scalability. |
+| **Scholaryx (WIP)**                                                                   | PERN (PostgreSQL)              | Academic management system focused on relational database modeling, normalized schema design, and structured backend architecture. MVP in progress.                                               |
+| **Mobile Extension (WIP)**                                                            | React Native                   | Mobile client consuming BiteStorm API with shared authentication flow and unified backend.                                                                                                        |
+
+
 ## 🛠 Core Stack
 
 ### 💻 Languages
