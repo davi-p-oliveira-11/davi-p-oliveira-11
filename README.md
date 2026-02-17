@@ -85,9 +85,9 @@ Currently expanding into **React Native** to deliver complete web + mobile solut
 ### 🗄 Data & Cloud
 <p align="center">
   <img src="https://img.shields.io/badge/-Postgresql-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+ <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+ <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
 
 <!-- ### 🛡 Engineering Practices
