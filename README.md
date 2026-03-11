@@ -104,6 +104,6 @@ Currently expanding into **React Native** to deliver complete web + mobile solut
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DavidWaldstein11&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidWaldstein11&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=davi-p-oliveira-11&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davi-p-oliveira-11&layout=compact&theme=tokyonight" />
 </p>
