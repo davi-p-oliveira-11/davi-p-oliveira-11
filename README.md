@@ -102,6 +102,17 @@ Currently expanding into **React Native** to deliver complete web + mobile solut
 ---
 -->
 ## 📊 GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davi-p-oliveira-11&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davi-p-oliveira-11&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=davi-p-oliveira-11&theme=dark)](https://git.io/streak-stats)
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=davi-p-oliveira-11&show_icons=true&theme=transparent" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davi-p-oliveira-11&layout=compact&theme=transparent" />
+
+</p>
+
+<p align="center">
+
+<img width="60%" src="https://streak-stats.demolab.com/?user=davi-p-oliveira-11&theme=dark" />
+
+</p>
