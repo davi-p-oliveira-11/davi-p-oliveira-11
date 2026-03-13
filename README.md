@@ -107,7 +107,7 @@ Currently expanding into **React Native** to deliver complete web + mobile solut
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=davi-p-oliveira-11&show_icons=true&theme=transparent" />
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davi-p-oliveira-11&layout=compact&theme=transparent" />
+<img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davi-p-oliveira-11&layout=compact&theme=transparent" />
 
 </p>
 
