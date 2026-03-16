@@ -39,11 +39,12 @@ Currently expanding into **React Native** to deliver complete web + mobile solut
 -->
 ---
 
-| Project                                                                               | Stack                          | Description                                                                                                                                                                                       |
-| ------------------------------------------------------------------------------------- | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Project | Stack | Description |
+|--------|------|-------------|
 | **[BiteStorm](https://bitestorm.onrender.com)** <br/> [Repo](https://github.com/davi-p-oliveira-11/bitestorm) | MERN (React 19, Node, MongoDB) | Fullstack food ordering platform with JWT authentication, role-based access (admin/user), restaurant & menu CRUD, cart & order management, and RESTful API architecture designed for scalability. |
-| **Scholaryx (WIP)**                                                                   | PERN (PostgreSQL)              | Academic management system focused on relational database modeling, normalized schema design, and structured backend architecture. MVP in progress.                                               |
-| **Mobile Extension (WIP)**                                                            | React Native                   | Mobile client consuming BiteStorm API with shared authentication flow and unified backend.                                                                                                        |
+| **RepForgeAI** <br/> [Repo](https://github.com/davi-p-oliveira-11/repforgeai) | React, Express, PostgreSQL | AI-powered web application that generates personalized gym training plans based on user input. Features a fullstack architecture with RESTful APIs, database persistence, and dynamic plan generation. |
+| **Canvasory ** | Flask, Python, Jinja2 | Pinterest-inspired social platform where users can create accounts, upload images, and explore visual boards. Focused on backend architecture, templating, and media handling. |
+| **Loopspace** | Next.js, PostgreSQL | Social media platform allowing users to create posts, interact with content, and explore a dynamic feed. Focused on modern fullstack architecture with server-side rendering and relational database design. |
 
 
 ## 🛠 Core Stack
@@ -55,13 +56,14 @@ Currently expanding into **React Native** to deliver complete web + mobile solut
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 </p>
 
 ### ⚛️ Frontend
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" />
   <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs" />
- <!-- <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular" /> -->
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular" />
   <img src="https://img.shields.io/badge/-Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/shadcn%2Fui-111111?style=for-the-badge" />
   <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui" />
@@ -78,16 +80,19 @@ Currently expanding into **React Native** to deliver complete web + mobile solut
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js" />
   <img src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express" />
-  <img src="https://img.shields.io/badge/Fastify-black?style=for-the-badge&logo=fastify" />
- <!--  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot" /> -->
+  <!-- <img src="https://img.shields.io/badge/Fastify-black?style=for-the-badge&logo=fastify" /> -->
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot" />
 </p>
 
 ### 🗄 Data & Cloud
 <p align="center">
   <img src="https://img.shields.io/badge/-Postgresql-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white" /> 
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
- <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
- <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
 
 <!-- ### 🛡 Engineering Practices
