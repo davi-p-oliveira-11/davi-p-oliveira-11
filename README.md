@@ -66,14 +66,14 @@ Currently expanding into **React Native** to deliver complete web + mobile solut
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/-Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/shadcn%2Fui-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/shadcn%2Fui-111111?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui" />
 </p>
 
 ### 🎨 Motion & 3D
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
   <img src="https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js" />
 </p>
 
