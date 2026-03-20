@@ -61,7 +61,7 @@ Currently expanding into **React Native** to deliver complete web + mobile solut
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Assembly-AAAAAA?style=for-the-badge&logo=asm&logoColor=white" />
+  <!-- <img src="https://img.shields.io/badge/Assembly-AAAAAA?style=for-the-badge&logo=asm&logoColor=white" /> -->
 </p>
 
 ### ⚛️ Frontend
