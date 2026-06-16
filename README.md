@@ -2,7 +2,7 @@
 <p align="center"><i>aka <a href="https://github.com/DavidWaldstein11" target="_blank">David Waldstein</a></i></p>
 
 <p align="center">
-  Fullstack JavaScript Developer building scalable web and mobile applications.<br/>
+  Full Stack Developer building modern web and mobile applications.<br/>
   React • React Native • Node.js • PostgreSQL • MongoDB
 </p>
 
