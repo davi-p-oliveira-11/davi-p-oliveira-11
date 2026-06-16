@@ -16,15 +16,11 @@
 
 ## 👨‍💻 About Me
 
-I build production-oriented applications focusing on:
+Full Stack Developer focused on building modern web applications with React, Next.js, Node.js, and TypeScript.
 
-- Clean and maintainable architecture  
-- Authentication & authorization flows  
-- RESTful API design  
-- Real-world database modeling (SQL & NoSQL)  
-- Modern React ecosystems (TanStack Query, Tailwind, etc.)
+Experienced in developing responsive frontends, RESTful APIs, authentication systems, and database-backed applications using PostgreSQL and MongoDB.
 
-Currently expanding into **React Native** to deliver complete web + mobile solutions powered by the same backend.
+Currently expanding my expertise in Java and Spring Boot while continuing to develop full-stack solutions across the JavaScript ecosystem.
 
 ---
 
@@ -37,7 +33,6 @@ Currently expanding into **React Native** to deliver complete web + mobile solut
 | **Scholaryx (WIP)** | PERN | Academic management system with relational database modeling |
 | **Mobile Extension (WIP)** | React Native | Mobile client consuming BiteStorm API |
 -->
----
 
 | Project | Stack | Description |
 |--------|------|-------------|
