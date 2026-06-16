@@ -52,29 +52,16 @@ Currently expanding my expertise in Java and Spring Boot while continuing to dev
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-### 🖥️ Low-Level / Systems
-<p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <!-- <img src="https://img.shields.io/badge/Assembly-AAAAAA?style=for-the-badge&logo=asm&logoColor=white" /> -->
-</p>
 
 ### ⚛️ Frontend
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" />
   <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular" />
+  <!-- <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular" /> -->
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/-Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/shadcn%2Fui-111111?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui" />
-</p>
-
-### 🎨 Motion & 3D
-
-<p align="center">
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
-  <img src="https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js" />
 </p>
 
 ### 🧠 Backend
@@ -82,8 +69,8 @@ Currently expanding my expertise in Java and Spring Boot while continuing to dev
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <!-- <img src="https://img.shields.io/badge/Fastify-black?style=for-the-badge&logo=fastify" /> -->
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <!-- <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> -->
+  <!-- <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" /> -->
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
 </p>
 
@@ -117,16 +104,16 @@ Currently expanding my expertise in Java and Spring Boot while continuing to dev
 ---
 -->
 ## 📊 GitHub Stats
-
+<!--
 <p align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=davi-p-oliveira-11&show_icons=true&theme=transparent" />
 
-<img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davi-p-oliveira-11&layout=compact&theme=transparent" />
-
 </p>
-
+-->
 <p align="center">
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davi-p-oliveira-11&layout=compact&theme=transparent" />
 
 <img width="60%" src="https://streak-stats.demolab.com/?user=davi-p-oliveira-11&theme=dark" />
 
