@@ -34,12 +34,12 @@ Currently expanding my expertise in Java and Spring Boot while continuing to dev
 | **Mobile Extension (WIP)** | React Native | Mobile client consuming BiteStorm API |
 -->
 
-| Project | Stack | Description |
-|--------|------|-------------|
-| **[BiteStorm](https://bitestorm.onrender.com)** <br/> [Repo](https://github.com/davi-p-oliveira-11/bitestorm) | MERN (React 19, Node, MongoDB) | Fullstack food ordering platform with JWT authentication, role-based access (admin/user), restaurant & menu CRUD, cart & order management, and RESTful API architecture designed for scalability. |
-| **RepForgeAI** <br/> [Repo](https://github.com/davi-p-oliveira-11/repforgeai) | React, Express, PostgreSQL | AI-powered web application that generates personalized gym training plans based on user input. Features a fullstack architecture with RESTful APIs, database persistence, and dynamic plan generation. |
-| **Canvasory ** | Flask, Python, Jinja2 | Pinterest-inspired social platform where users can create accounts, upload images, and explore visual boards. Focused on backend architecture, templating, and media handling. |
-| **Loopspace** | Next.js, PostgreSQL | Social media platform allowing users to create posts, interact with content, and explore a dynamic feed. Focused on modern fullstack architecture with server-side rendering and relational database design. |
+## 🚀 Featured Projects
+
+| Project                                              | Stack                                           | Description                                                                                                                                                      |
+| ---------------------------------------------------- | ----------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Loopspace** <br/> [Live Demo](https://loopspace-one.vercel.app/) • [Repository](https://github.com/davi-p-oliveira-11/loopspace) | Next.js, TypeScript, Prisma, PostgreSQL         | Full Stack social media platform featuring authentication, user profiles, post creation, file uploads, and responsive UI built with modern Next.js architecture. |
+| **Nexora** <br/> [Live Demo](https://nexora-store.onrender.com/) • [Repository](https://github.com/davi-p-oliveira-11/nexora-store)    | React, TypeScript, Node.js, Express, PostgreSQL | Full Stack e-commerce platform featuring product management, shopping cart, authentication, checkout flow, and an administrative dashboard.                      |
 
 
 ## 🛠 Core Stack
