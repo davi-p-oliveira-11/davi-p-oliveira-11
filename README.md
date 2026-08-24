@@ -42,7 +42,7 @@ Currently expanding my expertise in Java and Spring Boot while continuing to dev
 | **Nexora** <br/> [Live Demo](https://nexora-store.onrender.com/) • [Repository](https://github.com/davi-p-oliveira-11/nexora-store)    | React, TypeScript, Node.js, Express, MongoDB | Full Stack e-commerce platform featuring product management, shopping cart, authentication, checkout flow, and an administrative dashboard.                      |
 | **Tripnest** <br/> [Live Demo](https://tripnest-lboc.onrender.com/) • [Repository](https://github.com/davi-p-oliveira-11/tripnest)    | React, TypeScript, Node.js, Express, PostgreSQL | Full-stack hotel booking app built with React + TypeScript, Express, and MongoDB. Clean architecture,, Tailwind 3 for styling.                     |
 | **Knowledgehub API** <br/> [Live Demo]() • [Repository](https://github.com/davi-p-oliveira-11/knowledgehub-api)    | TypeScript, Node.js, Express, MongoDB | Production-style REST API for a knowledge publishing platform built with Node.js, Express, TypeScript, MongoDB, JWT authentication, and role-based authorization.                    |
-| **Flare** <br/> [Live Demo]() • [Repository](https://github.com/davi-p-oliveira-11/flare)    | React Native, TypeScript, Convex |   Production-level Instagram clone built with React Native and Expo. Features authentication with Clerk, real-time backend powered by Convex, post creation, likes, comments, and user profiles. Focused on scalable architecture, performance, and modern mobile UX.                   |
+
 
 ## 🛠 Core Stack
 
