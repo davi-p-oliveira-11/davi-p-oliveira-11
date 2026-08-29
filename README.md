@@ -2,8 +2,8 @@
 <p align="center"><i>aka <a href="https://github.com/DavidWaldstein11" target="_blank">David Waldstein</a></i></p>
 
 <p align="center">
-  Full Stack Developer building modern web and mobile applications.<br/>
-  React • React Native • Node.js • PostgreSQL • MongoDB
+  Full Stack Software Engineer building modern web and mobile applications.<br/>
+  React • Next.js • Angular • React Native • Node.js • Express • NestJS • Fastify • PostgreSQL • MongoDB
 </p>
 
 <p align="center">
