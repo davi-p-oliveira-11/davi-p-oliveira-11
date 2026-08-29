@@ -42,7 +42,8 @@ Currently expanding my expertise in Java and Spring Boot while continuing to dev
 | **Nexora** <br/> [Live Demo](https://nexora-store.onrender.com/) • [Repository](https://github.com/davi-p-oliveira-11/nexora-store)    | React, TypeScript, Node.js, Express, MongoDB | Full Stack e-commerce platform featuring product management, shopping cart, authentication, checkout flow, and an administrative dashboard.                      |
 | **Tripnest** <br/> [Live Demo](https://tripnest-lboc.onrender.com/) • [Repository](https://github.com/davi-p-oliveira-11/tripnest)    | React, TypeScript, Node.js, Express, PostgreSQL | Full-stack hotel booking app built with React + TypeScript, Express, and MongoDB. Clean architecture,, Tailwind 3 for styling.                     |
 | **Knowledgehub API** <br/> [Live Demo]() • [Repository](https://github.com/davi-p-oliveira-11/knowledgehub-api)    | TypeScript, Node.js, Express, MongoDB | Production-style REST API for a knowledge publishing platform built with Node.js, Express, TypeScript, MongoDB, JWT authentication, and role-based authorization.                    |
-
+| **Knowledgehub API** <br/> [Live Demo]() • [Repository](https://github.com/davi-p-oliveira-11/knowledgehub-api)    | TypeScript, Node.js, Express, MongoDB | Production-style REST API for a knowledge publishing platform built with Node.js, Express, TypeScript, MongoDB, JWT authentication, and role-based authorization. 
+| **Knowledgehub API** <br/> [Live Demo]() • [Repository](https://github.com/davi-p-oliveira-11/knowledgehub-api)    | TypeScript, Node.js, Express, MongoDB | Production-style REST API for a knowledge publishing platform built with Node.js, Express, TypeScript, MongoDB, JWT authentication, and role-based authorization. 
 
 ## 🛠 Core Stack
 
