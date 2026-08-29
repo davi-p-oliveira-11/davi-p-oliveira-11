@@ -16,11 +16,12 @@
 
 ## 👨‍💻 About Me
 
-Full Stack Developer focused on building modern web applications with React, Next.js, Node.js, and TypeScript.
+Full Stack Software Engineer focused on building modern web and mobile applications with TypeScript, React, Next.js, Angular, React Native, and Node.js, using Express, Fastify, and NestJS.
 
-Experienced in developing responsive frontends, RESTful APIs, authentication systems, and database-backed applications using PostgreSQL and MongoDB.
+Experienced in developing responsive frontends, RESTful and GraphQL APIs, authentication systems, database-backed applications, and scalable backend architectures using PostgreSQL, MongoDB, and Prisma.
 
-Currently expanding my expertise in Java and Spring Boot while continuing to develop full-stack solutions across the JavaScript ecosystem.
+Currently expanding my expertise in Java, Spring Boot, cloud infrastructure, and DevOps while continuing to build full-stack solutions across the JavaScript/TypeScript ecosystem.
+
 
 ---
 
